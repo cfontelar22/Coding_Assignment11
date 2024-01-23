@@ -31,5 +31,5 @@ This repository contains a Dockerized React web application for the "Codin 1" we
    To remove the container, use the following command:
    docker rm $(docker ps -a -q)
 
-**Dockerfile Details**
+## Dockerfile Details
 The Dockerfile used to build the environment is included in this repository. It creates a development environment that displays an "h1" tag with the text "Codin 1" using Create React App. The container is named "fontelar_christma_coding_assignment11", and the site files are hosted in a workdir called "fontelar_christma_site".
