@@ -96,11 +96,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
    Open your web browser and navigate to http://localhost:7775. You should see the "Codin 1" website.
 
 5. **Stopping the Container**
-   To stop the running container, use the following command:
    docker stop $(docker ps -q)
 
 6. **Removing the Container**
-   To remove the container, use the following command:
    docker rm $(docker ps -a -q)
 
 ## Dockerfile Details
