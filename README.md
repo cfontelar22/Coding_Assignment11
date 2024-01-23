@@ -1,4 +1,4 @@
-# Fontelar Christma Coding Assignment 11
+# Fontelar, Christma- Coding Assignment 11
 
 This repository contains a Dockerized React web application for the "Codin 1" website. Follow the instructions below to set up and run the application on your local machine.
 
